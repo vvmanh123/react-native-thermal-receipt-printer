@@ -5,12 +5,6 @@ A React Native Library to support USB/BLE/Net printer
 
 ![Node.js Package](https://github.com/HeligPfleigh/react-native-thermal-receipt-printer/workflows/Node.js%20Package/badge.svg)
 
-## Installation
-
-```
-yarn add react-native-thermal-receipt-printer
-```
-
 ## Troubleshoot
 
 - when install in `react-native` version >= 0.60, xcode show this error
